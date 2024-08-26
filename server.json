@@ -1,9 +1,3 @@
 {
-  "schedules": [
-    {
-      "id": 1724693328851,
-      "name": "Leonardo Barroso",
-      "when": "2024-08-26T18:00:00.000Z"
-    }
-  ]
+  "schedules": []
 }
